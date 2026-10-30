@@ -23,16 +23,16 @@ class MarcoCecca : public ExperimentalPhysicist {
 public:
     std::string role        = "Ph.D. Candidate, Engineering & Space Sciences";
     std::string affiliation = "Dipartimento di Fisica \"M. Merlin\", Bari";
-    std::vector<std::string> currentlyOn = {
-        "ADAPT — Antarctic Demonstrator for the Advanced Particle-astrophysics Telescope",
-        "Optical simulation of CsI + WLS + SiPM calorimeter layers",
-        "GPU optical photon transport (Opticks / Simphony) in Geant4",
+    std::vector<std::string> workingOn = {
+        "Astroparticle instrumentation",
+        "Particle detectors: design, simulation & characterization",
+        "Monte Carlo simulation and data analysis",
     };
     std::vector<std::string> interests = {
-        "gamma-ray astrophysics", "space instrumentation",
-        "Monte Carlo simulation", "ML for physics", "quantum computing",
+        "astroparticle physics", "space instrumentation",
+        "detector R&D", "ML for physics", "scientific computing",
     };
-    std::string funFact = "I've simulated more photons than I've seen sunsets 🌅";
+    std::string funFact = "I build detectors for particles I'll never see 👀";
 };
 ```
 
