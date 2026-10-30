@@ -23,6 +23,16 @@ I'm an experimental physicist and Ph.D. candidate at the Department of Physics i
 ⚛️ &nbsp;Particle detectors: design, simulation, characterization<br/>
 💻 &nbsp;Monte Carlo simulation & data analysis
 
+<br/>
+
+**📚 Latest publications**
+
+<!-- ORCID:START -->
+📄 &nbsp;**[Performance Evaluation of the Readout Electronics Board Based on the Smart Asic for the Adapt Instrument](https://doi.org/10.3390/particles9010014)**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Particles* · 2026 &nbsp;[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fparticles9010014-24c6dc?style=flat-square)](https://doi.org/10.3390/particles9010014)
+
+<sub>All works on [ORCID](https://orcid.org/0009-0008-9696-8935) →</sub>
+<!-- ORCID:END -->
 
 <br/>
 
@@ -83,9 +93,9 @@ Stopping power of charged particles traversing matter.<br/>
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcocecca00&theme=tokyonight" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcocecca00/marcocecca00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcocecca00/marcocecca00/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/marcocecca00/marcocecca00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
