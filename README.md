@@ -92,10 +92,6 @@ Stopping power of charged particles traversing matter.<br/>
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcocecca00&theme=tokyonight" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcocecca00&theme=tokyonight" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+<img alt="3D contribution graph" src="profile-3d-contrib/profile-custom.svg" />
 
 </div>
