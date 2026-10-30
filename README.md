@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/name.svg" width="400" alt="Marco Cecca" />
+<img src="assets/name.svg" width="475" alt="Marco Cecca" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=420&height=30&lines=Experimental+Physicist;Astroparticle+Instrumentation;Particle+Detectors;Ph.D.+Candidate+%40+Physics+Dept.+Bari" alt="Experimental Physicist · Astroparticle Instrumentation · Particle Detectors" /></a>
 
