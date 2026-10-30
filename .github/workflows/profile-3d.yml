@@ -17,6 +17,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+      - name: Show token scopes
+        env:
+          T: ${{ secrets.PROFILE_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          echo "PROFILE_PAT set: ${{ secrets.PROFILE_PAT != '' }}"
+          curl -sI -H "Authorization: Bearer $T" https://api.github.com/user | grep -iE '^(HTTP|x-oauth-scopes|github-authentication-token-expiration)' || true
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           # PROFILE_PAT (optional) lets the graph see languages of private repos
